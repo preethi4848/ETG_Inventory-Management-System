@@ -1,0 +1,293 @@
+
+
+Fri Sep  3 19:53:14 2021
+Product name: Potato Qty 49
+Total Amt: 22 62
+
+Fri Sep  3 19:53:14 2021
+Product name: Potato Qty 49
+Total Amt: 22 62
+
+Fri Sep  3 19:53:14 2021
+Product name: GoodDay Qty 55
+Total Amt: 20.0 62
+
+Fri Sep  3 20:11:33 2021
+Product name: Grapes Qty 30
+Total Amt: 60 3810
+
+Fri Sep  3 20:11:33 2021
+Product name: Grapes Qty 30
+Total Amt: 60 3810
+
+Fri Sep  3 20:11:33 2021
+Product name: Potato Qty 19
+Total Amt: 22 3810
+
+Fri Sep  3 20:11:33 2021
+Product name: Grapes Qty 30
+Total Amt: 60 3810
+
+Fri Sep  3 20:11:33 2021
+Product name: Potato Qty 19
+Total Amt: 22 3810
+
+Fri Sep  3 20:11:33 2021
+Product name: Apple Qty -13
+Total Amt: 65.0 3810
+
+Fri Sep  3 20:22:19 2021
+Product name: Potato Qty 9
+Total Amt: 22 600
+
+Fri Sep  3 20:22:19 2021
+Product name: Potato Qty 9
+Total Amt: 22 600
+
+Fri Sep  3 20:22:19 2021
+Product name: Ball pen Qty 68
+Total Amt: 7.0 600
+
+Fri Sep  3 20:22:19 2021
+Product name: Potato Qty 9
+Total Amt: 22 600
+
+Fri Sep  3 20:22:19 2021
+Product name: Ball pen Qty 68
+Total Amt: 7.0 600
+
+Fri Sep  3 20:22:19 2021
+Product name: Bananas Qty 57
+Total Amt: 36.0 600
+
+Fri Sep  3 20:22:19 2021
+Product name: Potato Qty 9
+Total Amt: 22 600
+
+Fri Sep  3 20:22:19 2021
+Product name: Ball pen Qty 68
+Total Amt: 7.0 600
+
+Fri Sep  3 20:22:19 2021
+Product name: Bananas Qty 57
+Total Amt: 36.0 600
+
+Fri Sep  3 20:22:19 2021
+Product name: Apple Qty -15
+Total Amt: 65.0 600
+
+Fri Sep  3 20:22:19 2021
+Product name: Potato Qty 9
+Total Amt: 22 600
+
+Fri Sep  3 20:22:19 2021
+Product name: Ball pen Qty 68
+Total Amt: 7.0 600
+
+Fri Sep  3 20:22:19 2021
+Product name: Bananas Qty 57
+Total Amt: 36.0 600
+
+Fri Sep  3 20:22:19 2021
+Product name: Apple Qty -15
+Total Amt: 65.0 600
+
+Fri Sep  3 20:22:19 2021
+Product name: Coconut Oil Qty 39
+Total Amt: 75.0 600
+
+Fri Sep  3 20:22:19 2021
+Product name: Potato Qty 9
+Total Amt: 22 600
+
+Fri Sep  3 20:22:19 2021
+Product name: Ball pen Qty 68
+Total Amt: 7.0 600
+
+Fri Sep  3 20:22:19 2021
+Product name: Bananas Qty 57
+Total Amt: 36.0 600
+
+Fri Sep  3 20:22:19 2021
+Product name: Apple Qty -15
+Total Amt: 65.0 600
+
+Fri Sep  3 20:22:19 2021
+Product name: Coconut Oil Qty 39
+Total Amt: 75.0 600
+
+Fri Sep  3 20:22:19 2021
+Product name: Yippie Qty 67
+Total Amt: 15 600
+
+Fri Sep  3 20:22:19 2021
+Product name: Potato Qty 9
+Total Amt: 22 600
+
+Fri Sep  3 20:22:19 2021
+Product name: Ball pen Qty 68
+Total Amt: 7.0 600
+
+Fri Sep  3 20:22:19 2021
+Product name: Bananas Qty 57
+Total Amt: 36.0 600
+
+Fri Sep  3 20:22:19 2021
+Product name: Apple Qty -15
+Total Amt: 65.0 600
+
+Fri Sep  3 20:22:19 2021
+Product name: Coconut Oil Qty 39
+Total Amt: 75.0 600
+
+Fri Sep  3 20:22:19 2021
+Product name: Yippie Qty 67
+Total Amt: 15 600
+
+Fri Sep  3 20:22:20 2021
+Product name: Watermelon Qty 48
+Total Amt: 40.0 600
+
+Fri Sep  3 20:39:48 2021
+Product name: Rice Qty 90
+Total Amt: 50.0 504
+
+Fri Sep  3 20:39:48 2021
+Product name: Rice Qty 90
+Total Amt: 50.0 504
+
+Fri Sep  3 20:39:48 2021
+Product name: GoodDay Qty 53
+Total Amt: 20.0 504
+
+Fri Sep  3 20:39:48 2021
+Product name: Rice Qty 90
+Total Amt: 50.0 504
+
+Fri Sep  3 20:39:48 2021
+Product name: GoodDay Qty 53
+Total Amt: 20.0 504
+
+Fri Sep  3 20:39:48 2021
+Product name: Apple Qty -17
+Total Amt: 65.0 504
+
+Fri Sep  3 20:39:48 2021
+Product name: Rice Qty 90
+Total Amt: 50.0 504
+
+Fri Sep  3 20:39:48 2021
+Product name: GoodDay Qty 53
+Total Amt: 20.0 504
+
+Fri Sep  3 20:39:48 2021
+Product name: Apple Qty -17
+Total Amt: 65.0 504
+
+Fri Sep  3 20:39:48 2021
+Product name: Ball pen Qty 66
+Total Amt: 7.0 504
+
+Fri Sep  3 20:39:48 2021
+Product name: Rice Qty 90
+Total Amt: 50.0 504
+
+Fri Sep  3 20:39:48 2021
+Product name: GoodDay Qty 53
+Total Amt: 20.0 504
+
+Fri Sep  3 20:39:48 2021
+Product name: Apple Qty -17
+Total Amt: 65.0 504
+
+Fri Sep  3 20:39:48 2021
+Product name: Ball pen Qty 66
+Total Amt: 7.0 504
+
+Fri Sep  3 20:39:48 2021
+Product name: Eggs Qty 183
+Total Amt: 8.0 504
+
+Fri Sep  3 20:39:48 2021
+Product name: Rice Qty 90
+Total Amt: 50.0 504
+
+Fri Sep  3 20:39:48 2021
+Product name: GoodDay Qty 53
+Total Amt: 20.0 504
+
+Fri Sep  3 20:39:48 2021
+Product name: Apple Qty -17
+Total Amt: 65.0 504
+
+Fri Sep  3 20:39:48 2021
+Product name: Ball pen Qty 66
+Total Amt: 7.0 504
+
+Fri Sep  3 20:39:48 2021
+Product name: Eggs Qty 183
+Total Amt: 8.0 504
+
+Fri Sep  3 20:39:48 2021
+Product name: Lays Qty 245
+Total Amt: 10.0 504
+
+Fri Sep  3 21:03:21 2021
+Product name: Iodex Qty 23
+Total Amt: 65.0 305
+
+Fri Sep  3 21:03:21 2021
+Product name: Iodex Qty 23
+Total Amt: 65.0 305
+
+Fri Sep  3 21:03:21 2021
+Product name: Ball pen Qty 64
+Total Amt: 7.0 305
+
+Fri Sep  3 21:03:21 2021
+Product name: Iodex Qty 23
+Total Amt: 65.0 305
+
+Fri Sep  3 21:03:21 2021
+Product name: Ball pen Qty 64
+Total Amt: 7.0 305
+
+Fri Sep  3 21:03:21 2021
+Product name: GoodDay Qty 51
+Total Amt: 20.0 305
+
+Fri Sep  3 21:03:21 2021
+Product name: Iodex Qty 23
+Total Amt: 65.0 305
+
+Fri Sep  3 21:03:21 2021
+Product name: Ball pen Qty 64
+Total Amt: 7.0 305
+
+Fri Sep  3 21:03:21 2021
+Product name: GoodDay Qty 51
+Total Amt: 20.0 305
+
+Fri Sep  3 21:03:21 2021
+Product name: Bananas Qty 56
+Total Amt: 36.0 305
+
+Fri Sep  3 21:03:21 2021
+Product name: Iodex Qty 23
+Total Amt: 65.0 305
+
+Fri Sep  3 21:03:21 2021
+Product name: Ball pen Qty 64
+Total Amt: 7.0 305
+
+Fri Sep  3 21:03:21 2021
+Product name: GoodDay Qty 51
+Total Amt: 20.0 305
+
+Fri Sep  3 21:03:21 2021
+Product name: Bananas Qty 56
+Total Amt: 36.0 305
+
+Fri Sep  3 21:03:21 2021
+Product name: Coconut Oil Qty 37
+Total Amt: 75.0 305
